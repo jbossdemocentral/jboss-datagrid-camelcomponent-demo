@@ -1,7 +1,7 @@
 
 {
   "summary":"This is a demo that shows how the new infinispan/data-grid Camel component works, testing",
-  "author":"Thomas Qvarnstr&ouml;m & Vijay Chintalapati",
+  "author":"Thomas Qvarnstrom & Vijay Chintalapati",
   "level":"Intermediate",
   "prerequisites":"Java VM 1.6 or 1.7, Maven",
   "targetProduct":"JBoss Data Grid",
