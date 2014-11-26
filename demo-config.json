@@ -1,6 +1,6 @@
 
 {
-  "name":"JBoss Data Grid Camel Component Demo"
+  "name":"JBoss Data Grid Camel Component Demo",
   "summary":"This is a demo that shows how the new infinispan/data-grid Camel component works, testing",
   "author":"Thomas Qvarnstrom & Vijay Chintalapati",
   "level":"Intermediate",
