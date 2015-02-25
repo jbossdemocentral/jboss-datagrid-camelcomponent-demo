@@ -3,21 +3,21 @@
   "name":"JBoss Data Grid Camel Component Demo",
   "summary":"This is a demo that shows how the new infinispan/data-grid Camel component works, testing",
   "author":"Thomas Qvarnstrom & Vijay Chintalapati",
-  "category":"jdg",
+  "categories":["jdg","fuse","multi"],
   "level":"Intermediate",
-  "published":false,
+  "published":true,
   "prerequisites":"Java VM 1.6 or 1.7, Maven",
-  "targetProduct":"JBoss Data Grid",
-  "productVersion":"JBoss Data Grid 6.4",
-  "technologies": ["Camel","Infinispan","Data Grid", "Integration"],
+  "targetProduct":"JBoss Data Grid and JBoss Fuse",
+  "productVersion":"JBoss Data Grid 6.4 and JBoss Fuse 6.1",
+  "technologies": ["Camel","Infinispan","JBoss Data Grid", "JBoss Fuse"],
   "links": [ 
     { 
-      "name":"Video",
-      "url":"http://youtu.be/8EEfHB3LkXA"
+      "name":"Code",
+      "url":"https://github.com/jbossdemocentral/jdg-fuse-demos"
     },
     {
       "name":"Slides",
-      "url":"http://youtu.be/8EEfHB3LkXA"
+      "url":"https://github.com/jbossdemocentral/jdg-fuse-demos/blob/master/docs/jdg-fuse-demo.pdf?raw=true"
     }
   ]
   
