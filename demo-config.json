@@ -1,14 +1,14 @@
 
 {
   "name":"JBoss Data Grid Camel Component Demo",
-  "summary":"This is a demo that shows how the new infinispan/data-grid Camel component works, testing",
+  "summary":"This is a demo that shows how the infinispan/data-grid Camel component works. Now updated to use remote listeners!",
   "author":"Thomas Qvarnstrom & Christina Lin",
   "categories":["jdg","fuse","multi"],
   "level":"Intermediate",
   "published":true,
-  "prerequisites":"Java VM 1.6 or 1.7, Maven",
+  "prerequisites":"Java VM 1.8, Maven",
   "targetProduct":"JBoss Data Grid and JBoss Fuse",
-  "productVersion":"JBoss Data Grid 6.4 and JBoss Fuse 6.1",
+  "productVersion":"JBoss Data Grid 6.5.0 and JBoss Fuse 6.2",
   "technologies": ["Camel","Infinispan","JBoss Data Grid", "JBoss Fuse"],
   "links": [ 
     { 
